@@ -1,1 +1,2 @@
-This file contain python code for predicting quora Insincere question that are not accepted,as they conatin raciest,sexiest and some other types of question which are against ethics of our society.
+This project contains Python code for predicting Quora insincere questions that are not accepted, as they contain racist, sexist, and other types of content that go against the ethics of our society.
+This project uses NLP to understand natural language in the comments and identifies which comments are insincere.
